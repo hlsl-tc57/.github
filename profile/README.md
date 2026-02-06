@@ -1,6 +1,6 @@
 ![ecma international logo](../assets/ecma-header.svg)
 
-# Ecma TC 57 - HLSL
+# Ecma TC57 - HLSL
 
 [Ecma Technical Committee 57][TC57] is the committee to standardize the High
 Level Shading Language (HLSL).
